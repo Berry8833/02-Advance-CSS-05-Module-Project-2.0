@@ -51,10 +51,10 @@ section {
 }
 .hero-form {
     border: 3px solid dimgray;
-    background-color: orange;
+    background-color: olive;
     padding: 20px;
     width: 500px;
-    color: indigo;
+    color: mediumspringgreen;
     position: absolute;
     bottom: 120px;
     right: 140px;
@@ -80,7 +80,7 @@ section {
 }
 .hero-form button {
     color: dimgrey;
-    background-color: darkgreen;
+    background-color: wheat;
     border: none;
     padding: 10px 20px;
     font-size: 16px;
@@ -116,3 +116,29 @@ section {
     font-style: 20px;
 }
 /* what we do style end */
+
+/* what you do style start */
+.steps {
+    text-align: center;
+    background: yellowgreen;
+}
+.steps div {
+    margin-bottom: 80px;
+}
+.steps img {
+    width: 15%;
+    margin: 10px 0;
+}
+.steps h3 {
+    color: purple;
+    font-style: 46px;
+    margin-top: 10px;
+}
+.steps span {
+    font-size: 38px;
+}
+.steps p {
+    color: blue;
+    font-style: 23px;
+}
+/* what you do style end */
